@@ -9,8 +9,11 @@
 
 ## 25.10.2024
 
-- [ ] ...
-- [ ] ...
+- [ ] Number Guesser erstellen
+- [ ] notenrechner
+
+Heute habe ich mit Amar einen Sicherheitsprogramm, bei dem man ein Passwort eingeben muss programmiert, dann haben wir noch einen Number Guesser gemacht und einen Notenrechner. Ich habe dadurch try and catch und die while Schleife besser verstanden. 
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -18,9 +21,9 @@
 
 ## 1.11.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Codeacademy Teil 11(lists)
+- [ ] Ich mache andere kleine Projekte zum üben
+- [ ] Falls noch zeit übrig ist, verbessere ich meine Projekte
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
