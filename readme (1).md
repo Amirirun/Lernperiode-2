@@ -9,21 +9,30 @@
 
 ## 25.10.2024
 
-- [ ] Number Guesser erstellen
-- [ ] notenrechner
+- [x] Number Guesser erstellen
+- [x] notenrechner
 
 Heute habe ich mit Amar einen Sicherheitsprogramm, bei dem man ein Passwort eingeben muss programmiert, dann haben wir noch einen Number Guesser gemacht und einen Notenrechner. Ich habe dadurch try and catch und die while Schleife besser verstanden. 
 
 
-✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 1.11.2024
 
-- [ ] Codeacademy Teil 11(lists)
-- [ ] Ich mache andere kleine Projekte zum üben
-- [ ] Falls noch zeit übrig ist, verbessere ich meine Projekte
+- [x] Codeacademy Teil 11(lists)
+- [x] Quiz mit Fragen erstellen
+- [x] Schere, Stein, Papier Spiel
+
+
+Heute habe ich mit Damian und Amar zusammen ein Quiz programmiert. In dem Quiz musste man verschiedene Fragen beantworten. Dann haben wir noch ein Schere, Stein Paier spiel gemacht. Das hat mir heute besonders gut gefallen. 
+
+
+## 8.11.2024
+
+- [ ] BMI Rechner
+- [ ] Schere, Stein, Papier while schleife hinzufügen
+- [ ] Schere, Stein, Papier Spiel Punktestand hinzufügen
+- [ ] Wenn noch Zeit ist den BMI rechner optimieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
