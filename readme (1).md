@@ -19,9 +19,9 @@ Heute habe ich mit Amar einen Sicherheitsprogramm, bei dem man ein Passwort eing
 
 ## 1.11.2024
 
-- [X] Codeacademy Teil 11(lists)
-- [X] Quiz mit Fragen erstellen
-- [X] Schere, Stein, Papier Spiel
+- [ X ] Codeacademy Teil 11(lists)
+- [ X ] Quiz mit Fragen erstellen
+- [ X ] Schere, Stein, Papier Spiel
 
 
 Heute habe ich mit Damian und Amar zusammen ein Quiz programmiert. In dem Quiz musste man verschiedene Fragen beantworten. Dann haben wir noch ein Schere, Stein Paier spiel gemacht. Das hat mir heute besonders gut gefallen. 
