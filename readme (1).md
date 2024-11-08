@@ -29,14 +29,20 @@ Heute habe ich mit Damian und Amar zusammen ein Quiz programmiert. In dem Quiz m
 
 ## 8.11.2024
 
-- [ ] BMI Rechner
-- [ ] Schere, Stein, Papier while schleife hinzufügen
-- [ ] Schere, Stein, Papier Spiel Punktestand hinzufügen
-- [ ] Wenn noch Zeit ist den BMI rechner optimieren
+- [ x] Kalorien Rechner
+- [ x ] Schere, Stein, Papier while schleife hinzufügen
+- [ x ] Schere, Stein, Papier Spiel Punktestand hinzufügen
+- [ X ] Wenn noch Zeit ist den Kalorien rechner optimieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
-
+Heute habe ich mit Amar das schere, stein papier spiel optimiert und eine schleife sowie einen Punktestand hinzugefügt. Danach haben wir einen Kalorien Rechner Programmiert.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
-## ...
+## 15.11.2024
+
+- [ ] Menü einbauen
+- [ ] BMI rechner Programmieren
+- [ ] Im Menü auswählen können
+- [ ] Wenn noch Zeit ist den Kalorien rechner optimieren
+- 
 
