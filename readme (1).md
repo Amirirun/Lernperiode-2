@@ -40,9 +40,10 @@ Heute habe ich mit Amar das schere, stein papier spiel optimiert und eine schlei
 
 ## 15.11.2024
 
-- [ ] Menü einbauen
-- [ ] BMI rechner Programmieren
-- [ ] Im Menü auswählen können
-- [ ] Wenn noch Zeit ist den Kalorien rechner optimieren
-- 
+- [x ] Menü einbauen
+- [ x] BMI rechner Programmieren
+- [x ] Im Menü auswählen können
+- [x ] Wenn noch Zeit ist den Kalorien rechner optimieren
+
+  Heute habe ich einen bmi rechner Programmiert, danach habe ich noch ein menü eingebaut, indem man zwischen dem bmi rechner und dem Kalorienrechner switchen kann.
 
