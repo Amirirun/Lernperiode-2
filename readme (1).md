@@ -49,7 +49,16 @@ Heute habe ich mit Amar das schere, stein papier spiel optimiert und eine schlei
 
 ## 22.11.2024
 
-- [ ] Hydration-Tracker
-- [ ] Motivationsfeatures
-- [ ] Körperfettanteil-Rechner
-- [ ] Geschlechter spezifisch werden
+- [ x] Hydration-Tracker
+- [ x] Körperfettanteil-Rechner
+- [ x] Körperfettanteil-Rechner geschlechterspezifisch machen
+- [ ] Beide Programme in mein Menü mit dem Kalorienrechner und dem BMI einfügen
+
+Heute habe ich einen Hydration-Tracker sowie einen Körperfettanteil-Rechner programmiert. Diese habe ich jeweils als eigenes Programm programmiert. Eigentlich war mein Plan, dass ich die Programme noch in mein Menü einfüge (Ander Code mit Kalorienrechner), aber das hat zeitlich nicht mehr gepasst.
+
+
+## 29.11.2024
+
+- [ ] Beide Programme in mein Menü mit dem Kalorienrechner und dem BMI einfügen
+- [ ] Grosses Programm (kalorienrechner, bmi, Hydration-Tracker, Körperfettanteil-Rechner) auf Fehler überprüfen
+- [ ] Falsche eingaben wiederholen können
