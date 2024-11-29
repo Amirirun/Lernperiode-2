@@ -59,6 +59,18 @@ Heute habe ich einen Hydration-Tracker sowie einen Körperfettanteil-Rechner pro
 
 ## 29.11.2024
 
-- [ ] Beide Programme in mein Menü mit dem Kalorienrechner und dem BMI einfügen
-- [ ] Grosses Programm (kalorienrechner, bmi, Hydration-Tracker, Körperfettanteil-Rechner) auf Fehler überprüfen
-- [ ] Falsche eingaben wiederholen können
+- [x ] Beide Programme in mein Menü mit dem Kalorienrechner und dem BMI einfügen
+- [x ] Grosses Programm (kalorienrechner, bmi, Hydration-Tracker, Körperfettanteil-Rechner) auf Fehler überprüfen
+- [ x ] Falsche eingaben wiederholen können
+
+
+Heute habe ich alle programme vereint in ein programm. am anfang hat noch alles gut funktioniert aber dann habe ich aufeinmal irgendelche Fehler angezeit bekommen. Ich habe lange zeit mit dem suchen der Fehler verbracht. Ein paar Fehler konnte ich finden, aber einige Fehler waren noch da. Mein Programm war sehr unübersichtlich, weshalb es mir schwer fiel, die Fehler zu finden. Am Ende habe ich dann einfach Chatgpt gefragt und er hat dann mein Programm verbessert und die Fehler behoben (Chatgpt hat aber irgendwie mein ganzes Programm umgeschrieben).
+
+
+## 06.12.2024
+
+- [ ] Anfangen Tetris zu programmieren
+- [ ] Mich mit Grafiken beschäftigen
+- [ ] Tastensteuerung lernen (für die blöcke
+      
+
