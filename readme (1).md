@@ -69,8 +69,17 @@ Heute habe ich alle programme vereint in ein programm. am anfang hat noch alles 
 
 ## 06.12.2024
 
-- [ ] Anfangen Tetris zu programmieren
-- [ ] Mich mit Grafiken beschäftigen
-- [ ] Tastensteuerung lernen (für die blöcke
-      
+- [x ] Anfangen Tetris zu programmieren
+- [ x] Mich mit Grafiken beschäftigen
+- [x ] Tastensteuerung lernen (für die blöcke)
+
+Heute habe ich Tetris programmiert, jedoch ist es noch nicht voll funktionsfähig. Die Blöcke kann man schon bewegen, aber es ist alles noch ein bisschen verbuggt.
+
+## 06.12.2024
+
+- [ ] Bugs beheben
+- [ ] Advendskalender anschauen
+- [ ] Umlet  skills erweitern
+- [ ] wenn noch zeit ist mich mit html beschäftigen
+
 
